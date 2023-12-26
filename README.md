@@ -5,4 +5,4 @@ Visualize real-world geographical data on a 3D textured globe.\
 Apply textures to 3D objects.\
 Algorithmically create a deforming 3D mesh and display it using vertex buffers.\
 Define normal vectors and texture coordinates for a sphere.\
-Convert from spherical coordinates (latitude and longitude) to 3D Cartesian coordinates.\
+Convert from spherical coordinates (latitude and longitude) to 3D Cartesian coordinates.
